@@ -8,7 +8,7 @@
                         </tr>
                         <tr>
                             <th>Select</th>
-                            <th>Item</th>
+                            <th>Title</th>
                             <th>Price</th>
                         </tr>
                     </thead>
@@ -28,7 +28,7 @@
                                     <input name="item0" type="checkbox" />
                                 </td>
                                 <td>
-                                    <xsl:value-of select="item" />
+                                    <xsl:value-of select="title" />
                                 </td>
                                 <td align="right">
                                     <xsl:value-of select="price" />
