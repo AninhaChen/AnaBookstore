@@ -27,7 +27,7 @@
         </book>
         <book available="true">
             <title>On Food and Cooking</title>
-            price>25.00</price>
+            <price>25.00</price>
         </book>
      </section>
     
